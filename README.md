@@ -11,7 +11,7 @@ Author : fthrdev | ThurZ
 2. Jalankan file dengan perintah:
 
 ```bash
-python love_shape.py
+python love.py
 
 Tidak butuh library tambahan karena menggunakan turtle bawaan Python.
 Author
